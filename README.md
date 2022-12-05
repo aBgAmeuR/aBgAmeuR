@@ -6,10 +6,10 @@ I am currently a **Computer Science** student at **Laval**.
 ## My tools
 ![vscode] ![adobexd] ![figma] ![iclipse]
 
-### Languages
+## Languages
 ![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json] ![arduino]
 
-### Other
+## Other
 ![premiere] ![photoshop] ![sql]
 
 
@@ -25,7 +25,7 @@ I am currently a **Computer Science** student at **Laval**.
 <summary>Statistic about me</summary>
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username={aBgAmeuR}
+https://github-readme-stats.vercel.app/api?username=aBgAmeuR
 </p>
 
 </details>

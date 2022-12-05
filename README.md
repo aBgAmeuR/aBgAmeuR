@@ -25,7 +25,7 @@ I am currently a **Computer Science** student at **Laval**.
 <summary>Statistic about me</summary>
 
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=aBgAmeuR
+<img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR" />
 </p>
 
 </details>

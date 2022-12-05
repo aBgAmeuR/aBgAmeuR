@@ -1,6 +1,6 @@
 # Hey ![wave], I'm Antoine "aBgAmeuR"
 
-I am currently a **Computer Science** student at **Rennes**.
+I am currently a **Computer Science** student at **Laval**.
 
 [![discord]](https://discord.com/users/291253455907979264)
 ## My tools
@@ -28,6 +28,10 @@ I am currently a **Computer Science** student at **Rennes**.
 
 </details>
 
+[figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[premiere]: https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
+[photoshop]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
+[sql]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif
 [discord]: https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord
 [json]: https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json

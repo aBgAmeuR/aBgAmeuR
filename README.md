@@ -1,4 +1,4 @@
-# Hey ![wave], I'm Antoine "aBgAmeuR"
+# Hey ![wave], I'm Antoine 'aBgAmeuR'
 
 I am currently a **Computer Science** student at **Laval**.
 

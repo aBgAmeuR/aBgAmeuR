@@ -12,24 +12,25 @@ I am currently a **Computer Science** student at **Laval**.
 ### Other
 ![premiere] ![photoshop] ![sql]
 
-
-<p>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
 <details>
-<summary>Statistic about me</summary>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR" />
-</p>
-
+  <summary>💻 My workspace</summary>
+  <p>
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  </p>
 </details>
 
+<details>
+  <summary>Statistic about me</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR" />
+  </p>
+</details>
+
+
+<!-- Variables -->
 [virtualbox]: https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white
 [iclipse]: https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
 [nodejs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white

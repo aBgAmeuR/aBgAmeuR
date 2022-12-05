@@ -3,13 +3,13 @@
 I am currently a **Computer Science** student at **Laval**.
 
 [![discord]](https://discord.com/users/291253455907979264)
-## My tools
+### My tools
 ![vscode] ![adobexd] ![figma] ![iclipse]
 
-## Languages
+### Languages
 ![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json] ![arduino]
 
-## Other
+### Other
 ![premiere] ![photoshop] ![sql]
 
 

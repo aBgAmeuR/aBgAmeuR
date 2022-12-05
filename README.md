@@ -14,7 +14,6 @@ I am currently a **Computer Science** student at **Laval**.
 
 <details>
   <summary>💻 My workspace</summary>
-  <br/>
   <p>
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/AMD%20Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />

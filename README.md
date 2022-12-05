@@ -4,10 +4,14 @@ I am currently a **Computer Science** student at **Laval**.
 
 [![discord]](https://discord.com/users/291253455907979264)
 ## My tools
-![vscode] ![adobexd]
+![vscode] ![adobexd] ![figma] ![iclipse]
 
 ### Languages
-![javascript] ![html5] ![css3] ![sass] ![c] ![json]
+![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json] ![arduino]
+
+### Other
+![premiere] ![photoshop] ![sql]
+
 
 <!-- <p>
   💻 My workspace<br/><br/>
@@ -21,13 +25,15 @@ I am currently a **Computer Science** student at **Laval**.
 <summary>Statistic about me</summary>
 
 <p align="center">
-<a href="https://wakatime.com/@aBgAmeuR">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aBgAmeuR&theme=dark&hide_border=true&hide_title=true&layout=compact" alt="aBgAmeuR wakatime stats">
-</a>
+https://github-readme-stats.vercel.app/api?username={aBgAmeuR}
 </p>
 
 </details>
 
+[virtualbox]: https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white
+[iclipse]: https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+[nodejs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[express]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [figma]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [premiere]: https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
 [photoshop]: https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
@@ -36,7 +42,6 @@ I am currently a **Computer Science** student at **Laval**.
 [discord]: https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord
 [json]: https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json
 [sass]: https://img.shields.io/badge/sass-323330?style=for-the-badge&logo=sass
-[c]: https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c
 [adobexd]: https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white
 [arduino]: https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 [vscode]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white

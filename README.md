@@ -7,7 +7,7 @@ I am currently a **Computer Science** student at **Laval**.
 ![vscode] ![adobexd] ![figma] ![iclipse]
 
 ### Languages
-![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json] ![arduino]
+![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json]
 
 ### Other
 ![premiere] ![photoshop] ![sql]

@@ -46,7 +46,6 @@ I am currently a **Computer Science** student at **Laval**.
 [json]: https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json
 [sass]: https://img.shields.io/badge/sass-323330?style=for-the-badge&logo=sass
 [adobexd]: https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white
-[arduino]: https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 [vscode]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript
 [html5]: https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5

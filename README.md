@@ -31,6 +31,7 @@ I am currently a **Computer Science** student at **Laval**.
   </p>
 </details>
 
+<a href="https://github.com/aBgAmeuR"><img src="contributions.svg"></a>
 
 <!-- Variables -->
 [virtualbox]: https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white

@@ -11,7 +11,7 @@ I am currently a **Computer Science** student at **Laval**.
 ![typescript] ![nodejs] ![express] ![java]<br />
 
 ### Other
-![jwt] ![jest]\n
+![jwt] ![jest]<br />
 ![sql] ![mysql] ![mongodb]<br />
 ![premiere] ![photoshop]<br />
 

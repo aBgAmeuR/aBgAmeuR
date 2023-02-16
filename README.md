@@ -25,6 +25,11 @@ I am currently a **Computer Science** student at **Laval**.
   </p>
 </details>
 
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 
 <details>
   <summary>Statistic about me</summary>

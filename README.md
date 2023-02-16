@@ -33,7 +33,7 @@ I am currently a **Computer Science** student at **Laval**.
     <img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR" />
     <br />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBgAmeuR" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBgAmeuR&theme=dark" />
   </p>
 </details>
 

@@ -7,10 +7,10 @@ I am currently a **Computer Science** student at **Laval**.
 ![vscode] ![adobexd] ![figma] ![iclipse]
 
 ### Languages
-![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json]
+![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json] ![typescript] ![java]
 
 ### Other
-![premiere] ![photoshop] ![sql]
+![premiere] ![photoshop] ![sql] ![mongodb] ![jwt] ![jest]
 
 <details>
   <summary>My workspace</summary>
@@ -51,3 +51,8 @@ I am currently a **Computer Science** student at **Laval**.
 [javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript
 [html5]: https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5
 [css3]: https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3
+[typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[jwt]: https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
+[jest]: https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white

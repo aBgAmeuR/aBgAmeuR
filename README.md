@@ -27,10 +27,7 @@ I am currently a **Computer Science** student at **Laval**.
 
 | Frontend | Backend | Database | Other |
 |:-:|:-------:|:-----:|:-----:|
-| <br />![html5] ![css3] ![sass]<br />![javascript] ![json]<br />
-| <br />![nodejs] ![express]<br />![jwt] ![jest]<br />![typescript]
-| <br />![sql] ![mysql] ![mongodb] 
-| <br />![premiere] ![photoshop] |
+| <br />![html5] ![css3] ![sass]<br />![javascript] ![json]<br /> | <br />![nodejs] ![express]<br />![jwt] ![jest]<br />![typescript] | <br />![sql] ![mysql] ![mongodb] | <br />![premiere]]<br />![photoshop] |
 
 <details>
   <summary>Statistic about me</summary>

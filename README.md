@@ -31,6 +31,9 @@ I am currently a **Computer Science** student at **Laval**.
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR" />
+    <br />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBgAmeuR" />
   </p>
 </details>
 

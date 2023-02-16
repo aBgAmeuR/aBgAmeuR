@@ -26,8 +26,8 @@ I am currently a **Computer Science** student at **Laval**.
 </details>
 
 | Frontend | Backend | Other |
-|:----------------------------------------------:|:-------:|:-----:|
-| ![javascript] ![html5] ![css3] ![sass] ![json] |         |       |
+|:-:|:-------:|:-----:|
+| ![html5] ![css3] ![sass]<br />![javascript] ![json] |         |       |
 
 <details>
   <summary>Statistic about me</summary>

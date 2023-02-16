@@ -7,10 +7,13 @@ I am currently a **Computer Science** student at **Laval**.
 ![vscode] ![adobexd] ![figma] ![iclipse]
 
 ### Languages
-![javascript] ![html5] ![css3] ![sass] ![nodejs] ![express] ![json] ![typescript] ![java]
+![javascript] ![html5] ![css3] ![sass] ![json]
+![typescript] ![nodejs] ![express] ![java]
 
 ### Other
-![premiere] ![photoshop] ![sql] ![mongodb] ![jwt] ![jest]
+![jwt] ![jest]
+![sql] ![mysql] ![mongodb]
+![premiere] ![photoshop] 
 
 <details>
   <summary>My workspace</summary>
@@ -56,3 +59,4 @@ I am currently a **Computer Science** student at **Laval**.
 [mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [jwt]: https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
 [jest]: https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
+[mysql]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white

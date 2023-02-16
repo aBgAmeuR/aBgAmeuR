@@ -7,13 +7,13 @@ I am currently a **Computer Science** student at **Laval**.
 ![vscode] ![adobexd] ![figma] ![iclipse]
 
 ### Languages
-![javascript] ![html5] ![css3] ![sass] ![json]
-![typescript] ![nodejs] ![express] ![java]
+![javascript] ![html5] ![css3] ![sass] ![json]\n
+![typescript] ![nodejs] ![express] ![java]\n
 
 ### Other
-![jwt] ![jest]
-![sql] ![mysql] ![mongodb]
-![premiere] ![photoshop] 
+![jwt] ![jest]\n
+![sql] ![mysql] ![mongodb]\n
+![premiere] ![photoshop]\n
 
 <details>
   <summary>My workspace</summary>

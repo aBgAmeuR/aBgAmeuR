@@ -12,7 +12,7 @@ I am currently a **Computer Science** student at **Laval**.
 
 ### Other
 ![jwt] ![jest]<br />
-![sql] ![mysql] ![mongodb]<br />
+![sql] ![mongodb]<br />
 ![premiere] ![photoshop]<br />
 
 <details>

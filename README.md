@@ -1,6 +1,5 @@
 # Hey ![wave], I'm Antoine 'aBgAmeuR'
 
-## About Me 👩‍💼
 I am currently a **Computer Science** student at **Laval**.
 
 ## Tech Stack 

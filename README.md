@@ -20,20 +20,15 @@ I am currently a **Computer Science** student at **Laval**.
 ![Sass](https://img.shields.io/badge/sass-323330?style=for-the-badge&logo=sass)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Iclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Json](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-# GitHub Stats
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <thead>
-        <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR&theme=dark" alt="GitHub Stats" /></td>
-            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBgAmeuR&theme=dark" alt="GitHub Stats" /></td>
-        </tr>
-    </thead>
-</table>
-
+## GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR&theme=dark&show_icons=true&hide=issues&line_height=24" alt="GitHub Stats" />
+    ‎ ‎ ‎ ‎ ‎ 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBgAmeuR&theme=dark&layout=compact" alt="GitHub Stats" />
+</p>
  
 
 ## Contact Me
@@ -41,7 +36,13 @@ I am currently a **Computer Science** student at **Laval**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://antoinejosset.fr)
 
-<a href="https://github.com/aBgAmeuR"><img src="contributions.svg"></a>
+<details>
+    <summary></summary>
+    <p align="center">
+        <a href="https://github.com/aBgAmeuR"><img src="contributions.svg"></a>
+    </p>
+</details>
+
 
 <!-- Variable -->
 [wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif

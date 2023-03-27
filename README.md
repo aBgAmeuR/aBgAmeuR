@@ -41,5 +41,4 @@ I am currently a **Computer Science** student at **Laval**.
 </details>
 
 
-<!-- Variable -->
 [wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif

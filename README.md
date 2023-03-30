@@ -23,9 +23,9 @@ I am currently a **Computer Science** student at **Laval**.
 
 ## GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aBgAmeuR&theme=dark&show_icons=true&hide=issues&line_height=24" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aBgAmeuR&theme=dark&show_icons=true&hide=issues&line_height=24" alt="GitHub Stats" />
     ‎ ‎ ‎ ‎ ‎ 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBgAmeuR&theme=dark&layout=compact" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aBgAmeuR&theme=dark&layout=compact" alt="GitHub Stats" />
 </p>
 
 ## Contact Me

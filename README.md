@@ -22,7 +22,6 @@ I am currently a **Computer Science** student at **Laval**.
 
 ## Contact Me
 [![Discord](https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord)](https://discord.com/users/291253455907979264)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://antoinejosset.fr)
 
 <details>
